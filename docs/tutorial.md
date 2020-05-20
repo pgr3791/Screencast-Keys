@@ -1,5 +1,9 @@
 # Tutorial
 
+* [Introduction (Video)](#introduction-video)
+* [Options](#options)
+* [Preferences](#preferences)
+
 
 ## Introduction (Video)
 
@@ -112,6 +116,7 @@ If **Show Last Operator** option is enabled, the last executed operator will be 
 ### Get Event Aggressively
 
 *NOTE: This is an experimental option. If this option is enabled, Blender may be crashed in the specific environment.*
+
 *NOTE: This option is only supported in the specific Blender version. If you want this add-on to support other version, consider to [make a Issue](https://github.com/nutti/Screencast-Keys/issues)*
 
 If **Get Event Aggressively** option is enabled, the events raised in the model status will also be displayed.
@@ -120,7 +125,7 @@ If **Get Event Aggressively** option is enabled, the events raised in the model 
 ## Preferences
 
 In addition to the above options, some options are located at Perferences.  
-You can also update this add-on from there.
+You can also update this add-on from Preferences.
 
 
 ### Panel Location
@@ -135,7 +140,7 @@ The location of the Panel can be changed.
 
 ### Debug Mode
 
-*NOTE: This option is for the development purpose. If this option is enabled, the performance issue will be raised.*
+*NOTE: This option is for the development purpose. If this option is enabled, the performance issue may be raised.*
 
 Output logs for the analysis of bugs and so on.
 
