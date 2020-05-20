@@ -30,8 +30,9 @@ You can also change shadow color.
 If **Background** option is checked, colored planes are displayed behind texts and figures.  
 Two background options are available.
 
-* **Text** : Display colored plane behind texts and figures.  
-* **Draw Area** : Display a color plane on the draw area rectangle.
+|---|---|
+|**Text**|Display colored plane behind texts and figures.|
+|**Draw Area**|Display a color plane on the draw area rectangle.|
 
 
 ### Font Size
@@ -48,6 +49,60 @@ This option is only availabe when **Mouse Events** option is **Hold Status** or 
 ### Origin
 
 **Origin** option specifies the location to display texts and figures.
-You can select the location 
 
+|---|---|
+|**Region**|Currently selected region. You can change the region by **Set Origin** operation.|
+|**Area**|Currently selected area. You can change the area by **Set Origin** operation.|
+|**Window**|Blender's application window.|
+|**Cursor**|Mouse cursor.|
+
+
+### Offset
+
+**Offset** option is an offset of the location where texts and figures will be displayed.
+
+
+### Align
+
+Texts and figures are aligned according to **Align** option.
+
+|---|---|
+|**Left**|Texts and figures are aligned to the left side.|
+|**Center**|Texts and figures are aligned to center.|
+|**Right**|Texts and figures are aligned to the right side.|
+
+
+### Display Time
+
+Each key event or last operator will be displayed until the elapsed time overs **Display Time**.
+
+
+### Max Event History
+
+Key events will be displayed up to **Max Event History**.
+
+
+### Show Mouse Event
+
+
+### Show Last Operator
+
+
+### Get Event Aggressively
+
+
+
+## Preferences
+
+In addition to the above options, some options are located at Perferences.  
+You can also update this add-on from there.
+
+
+### Panel Location
+
+
+### Debug Mode
+
+
+### Enable Display Event Text Aliases
 
