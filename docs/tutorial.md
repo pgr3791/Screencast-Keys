@@ -30,6 +30,7 @@ You can also change shadow color.
 If **Background** option is checked, colored planes are displayed behind texts and figures.  
 Two background options are available.
 
+|||
 |---|---|
 |**Text**|Display colored plane behind texts and figures.|
 |**Draw Area**|Display a color plane on the draw area rectangle.|
@@ -50,6 +51,7 @@ This option is only availabe when **Mouse Events** option is **Hold Status** or 
 
 **Origin** option specifies the location to display texts and figures.
 
+|||
 |---|---|
 |**Region**|Currently selected region. You can change the region by **Set Origin** operation.|
 |**Area**|Currently selected area. You can change the area by **Set Origin** operation.|
@@ -66,6 +68,7 @@ This option is only availabe when **Mouse Events** option is **Hold Status** or 
 
 Texts and figures are aligned according to **Align** option.
 
+|||
 |---|---|
 |**Left**|Texts and figures are aligned to the left side.|
 |**Center**|Texts and figures are aligned to center.|
