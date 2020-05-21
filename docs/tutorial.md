@@ -7,8 +7,9 @@
 
 ## Introduction (Video)
 
-This video is created for v3.0.  
-UI and features will be changed in the future release.
+This video is created for v3.0.
+
+*NOTE: UI and features introduced in this video will be changed in the future release.*
 
 [![](https://img.youtube.com/vi/mWkkPCp7RSI/0.jpg)](https://www.youtube.com/watch?v=mWkkPCp7RSI)
 
@@ -32,7 +33,8 @@ You can also change shadow color.
 ### Backgroud
 
 If **Background** option is enabled, colored planes will be displayed behind texts and figures.  
-Two background options are available.
+Two background options are available.  
+You can also change backgroud color.
 
 |||
 |---|---|
@@ -47,7 +49,7 @@ Two background options are available.
 
 ### Mouse Size
 
-**Mouse Size** option specifies the size of mouse which displays hold mouse status.  
+**Mouse Size** option specifies the size of figure which displays hold mouse status.  
 This option is only availabe when **Mouse Events** option is **Hold Status** or **Event History + Hold Status** while **Show Mouse Events** is enabled.
 
 
@@ -74,9 +76,9 @@ Texts and figures are aligned according to **Align** option.
 
 |||
 |---|---|
-|**Left**|Texts and figures are aligned to the left side.|
-|**Center**|Texts and figures are aligned to center.|
-|**Right**|Texts and figures are aligned to the right side.|
+|**Left**|Texts and figures will be aligned to the left side.|
+|**Center**|Texts and figures will be aligned to center.|
+|**Right**|Texts and figures will be aligned to the right side.|
 
 
 ### Display Time
@@ -99,7 +101,7 @@ See **Mouse Event** option if you want to change how to display the mouse status
 
 ### Mouse Event
 
-**Mouse Event** option changes how to display the mouse status.
+**Mouse Event** option specifies how to display the mouse status.
 
 |||
 |---|---|
@@ -119,13 +121,13 @@ If **Show Last Operator** option is enabled, the last executed operator will be 
 
 *NOTE: This option is only supported in the specific Blender version. If you want this add-on to support other version, consider to [make a Issue](https://github.com/nutti/Screencast-Keys/issues)*
 
-If **Get Event Aggressively** option is enabled, the events raised in the model status will also be displayed.
+If **Get Event Aggressively** option is enabled, the events raised in the modal status will also be displayed.
 
 
 ## Preferences
 
-In addition to the above options, some options are located at Perferences.  
-You can also update this add-on from Preferences.
+In addition to the above options, some options are located on Perferences.  
+You can update this add-on from Preferences.
 
 
 ### Panel Location
@@ -148,4 +150,4 @@ Output logs for the analysis of bugs and so on.
 ### Enable Display Event Text Aliases
 
 If this options is enabled, you can display own customized strings for events instead of default key name.  
-This can be useful when you want to display special input devices.
+This can be useful when you want to display events from special input devices.
